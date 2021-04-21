@@ -1,3 +1,3 @@
 console.log("initial");
 
-dasdk;
+console.log("proper js");
